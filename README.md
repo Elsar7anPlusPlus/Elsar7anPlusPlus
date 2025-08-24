@@ -1,46 +1,41 @@
-# 👨‍💻 Omar Elsar7an
+<div align="center" width="50">
 
-### C++ Developer | Web Developer (HTML & CSS)
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
----
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-## 📝 About Me  
-- Passionate **C++ programmer** with strong problem-solving skills.  
-- Experienced in **building websites** using HTML & CSS.  
-- Interested in **system optimization, clean code, and open-source development**.  
-- Always eager to **learn new technologies** and improve my skills.  
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
----
+</details>
 
-## ⚒️ Skills  
+![Totals Hits](https://komarev.com/ghpvc/?username=OmarElsar7an&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOmarElsar7an&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Omar%20Elsar7an-grey?style=flat&logo=telegram)](https://t.me/omarElsar7an) <br>
+</div>
 
-**Programming Languages:**  
-- C++ (Primary)  
-- JavaScript (Basics)  
-- JSON  
+<hr></hr>
 
-**Web Development:**  
-- HTML  
-- CSS  
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-**Tools & Platforms:**  
-- Git & GitHub  
-- Linux  
-- Visual Studio Code  
+```dart
+// tools_I_use organized
 
----
-
-## 📊 GitHub Stats  
-
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarElsar7an&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarElsar7an&layout=compact&theme=default)  
-
----
-
-## 📫 Contact Me  
-
-- **GitHub:** [github.com/OmarElsar7an](https://github.com/OmarElsar7an)  
-- **Email:** your-email@example.com  
-- **LinkedIn:** [linkedin.com/in/omar-elsar7an](#)  
-
----
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "C++", "Python", "Javascript", "C" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "SQLite" },
+    "Editors" : { "Vscode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "Linux", "Windows" },
+    "OtherTools" : { "Git" }
+  };
+}
